@@ -4,3 +4,6 @@
 ### Esta primeira aula mostra como criar o primeiro repositorio e tambem fazer o comit.
 
 
+ ### Autor: Carlos Henrique
+
+
